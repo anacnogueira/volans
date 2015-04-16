@@ -1,11 +1,13 @@
-# volans
-Projeto de uma empresa área fictícia feito em PHP + Mysql
-para apresentação do Trabalho de Conclusão do Curso 
-Ano: 2005
-Curso: Sistemas para Internet
-Faculdade IBTA - São José dos Campos
-<b>Integrantes</b>
-Ana Claudia Nogueira
-Bruno Wilson Martinez Silva
-Leluana Maria Magalhães Segre
-Paola Gonçalves Teixeira
+# volans <br>
+Projeto de uma empresa área fictícia feito em PHP + Mysql<br>
+para apresentação do Trabalho de Conclusão do Curso <br>
+Ano: 2005<br>
+Curso: Sistemas para Internet<br>
+Faculdade IBTA - São José dos Campos<br>
+<b>Integrantes</b><br>
+<ol>
+  <li>Ana Claudia Nogueira</li>
+  <li>Bruno Wilson Martinez Silva</li>
+  <li>Leluana Maria Magalhães Segre</li>
+  <li>Paola Gonçalves Teixeira</li>
+</ol>  
