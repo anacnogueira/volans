@@ -1,0 +1,364 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial;
+	font-size: 6px;
+	color: #00000;
+}
+
+p{
+	padding: 0px;
+	margin: 0px;
+	font-size: 12px;
+}
+p.branco{
+	color: #FFFFFF;
+}
+.bordo{
+	font-size: 14px;
+	color: #CC0000;
+	font-weight: bold;
+}
+.texto{
+	font-size: 12px;
+	color: #333333;
+	}
+.tit_barra1{
+	font-size: 16px;
+	font-weight: bold;
+}
+.tit_barra2{
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.laranja{
+	font-size: 14px;
+	color: #FF6600;
+	font-weight: bold;
+}
+
+.azul{
+	font-size: 14px;
+	color: #006699;
+	font-weight: bold;
+}
+
+.verde{
+	font-size: 14px;
+	color: #009900;
+	font-weight: bold;
+}
+
+.erro{
+	padding: 0px;
+	margin: 0px;
+	font-size: 12px;
+	color: #FF0000;
+}
+
+.erro2{
+	padding: 0px;
+	margin: 0px;
+	font-size: 16px;
+	color: #FF0000;
+}
+
+b{
+	font-size: 12px;
+	font-weight: bold;
+}
+
+strong {
+	font-size: 14px;
+	font-weight: bold;
+}	
+
+a{
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: Arial;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:visited{
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: Arial;
+	text-decoration: none;
+   font-weight: bold;
+}
+
+a:avisited{
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: Arial;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.link{
+	color: #006699;
+	font-family: Arial;
+	font-size: 14px;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 2px;
+}
+
+.link:visited{
+	color: #006699;
+	font-family: Arial;
+	font-size: 14px;
+	text-decoration: none;
+	font-weight: bold;	
+	padding: 2px;
+}
+
+.link:avisited{
+	color: #006699;
+	font-family: Arial;
+	font-size: 14px;
+	text-decoration: none;
+	font-weight: bold;	
+	padding: 2px;
+}
+
+
+.link2{
+	color: #006699;
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 2px;
+}
+
+.link2:visited{
+	color: #006699;
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;	
+	padding: 2px;
+}
+
+.link2:avisited{
+	color: #006699;
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;	
+	padding: 2px;
+}
+
+
+.link_cinza{
+	color: #333333;
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 2px;
+}
+
+.link_cinza:visited{
+	color: #333333;
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;	
+	padding: 2px;
+}
+
+.link_cinza:avisited{
+	color: #333333;
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;	
+	padding: 2px;
+}
+
+.link_cinza_texto{
+	color: #333333;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.link_cinza_texto:visited{
+	color: #333333;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.link_cinza_texto:avisited{
+	color: #333333;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.link_icones{
+	color: #333333;
+	font-family: Arial;
+	font-size: 10px;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 2px;
+}
+
+.link_icones:visited{
+	color: #333333;
+	font-family: Arial;
+	font-size: 10px;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 2px;
+}
+
+.link_icones:avisited{
+	color: #333333;
+	font-family: Arial;
+	font-size: 10px;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 2px;
+}
+
+.link_bordo{
+	color: #CC0000;
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 2px;
+}
+
+.link_bordo:visited{
+	color: #CC0000;
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;	
+	padding: 2px;
+}
+
+.link_bordo:avisited{
+	color: #333333;
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;	
+	padding: 2px;
+}
+
+.setor_adm{
+	color:#FFFFFF;
+	font-family: Arial;
+	font-size: 13px;
+}
+
+h1{
+	font-size: 16px;
+	font-weight: bold;
+	padding: 10px 0px;
+	margin: 0px;
+}
+
+h2{
+   font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 0px;
+	margin: 0px;
+}
+
+.login{
+   font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	
+}
+
+.img{
+	padding: 0px;
+	
+}
+
+.tit_administrador{
+	color: #006699;
+}
+
+.tit_erro{
+	padding: 0px;
+	margin: 0px;
+	font-size: 16px;
+	color: #FF0000;
+	font-weight: bold;
+	padding: 10px 0px;
+	margin: 0px;
+}
+form{
+	padding: 0px;
+	margin: 2px;
+	width: 10px;
+}
+
+.form_login{
+	width: 770px;
+}
+
+.form_compra{
+	width: 650px;
+	border: 1px dotted #CCCCCC;
+
+	
+}
+
+.fundo{
+	background-image: url(../adm/fatias/marca_dagua.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+   background-position: left;
+}
+
+
+#rotas{
+	position: absolute;
+	top: 168px;
+	left: 5px;
+	width: 400px;
+	height: 100px;
+	z-index: 0;
+	font-size: 10px;
+}
+
+.espaco {
+   padding: 5px;
+}
+#top_login{
+	z-index: 0;
+	position: absolute;
+	top: 1px;
+	left: 600px;
+	width: 165px;
+	text-align: right;
+}
+
+embed{
+padding: 0px;
+margin: 0px;
+border:0px;
+}
+
+object{
+padding: 0px;
+margin: 0px;
+border:0px;
+}
